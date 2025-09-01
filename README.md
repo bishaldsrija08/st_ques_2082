@@ -22,4 +22,8 @@ three: Eng II, maths, Nepali
 
 two: hrhg, eng ii
 
-one: maths"
+one: maths
+
+ukg: project work
+
+Nursery: English W"
