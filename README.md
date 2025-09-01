@@ -14,3 +14,12 @@ Class 2: Maths
 
 Class 1: Science"
 
+"2082/05/16 ->Five: hrhg, computer
+
+four: hrhg, computer
+
+three: Eng II, maths, Nepali
+
+two: hrhg, eng ii
+
+one: maths"
