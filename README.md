@@ -27,3 +27,22 @@ one: maths
 ukg: project work
 
 Nursery: English W"
+
+"2082/05/17 -> 
+
+NUrsery: Maths (W), Nepali (W), English (W)
+
+UKG: Nepali, English, Maths, Social Science
+
+One: Eng-I
+
+Four: Eng-II, Social
+
+Five: Eng-II, Social
+
+Six: Eng - II
+
+Five: HPCA
+
+Three: Computer, HRHG
+"
