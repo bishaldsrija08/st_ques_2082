@@ -46,3 +46,11 @@ Five: HPCA
 
 Three: Computer, HRHG
 "
+
+"
+2082/05/18->
+
+Lkg: Social science, rhy and conv., project work, Nepali, english
+
+class 2: nepali
+"
