@@ -54,3 +54,9 @@ Lkg: Social science, rhy and conv., project work, Nepali, english
 
 class 2: nepali
 "
+
+"
+2082/05/19->
+
+Lkg: Maths
+"
